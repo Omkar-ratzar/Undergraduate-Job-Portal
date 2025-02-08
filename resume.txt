@@ -1,0 +1,32 @@
+Swami Omkar Ravindra
++91 9834257626 | swamiomkar262004@gmail.com
+ Education
+ Bachelors of Technology ||Computer Science and Technology
+Parul University
+ Skills
+ Frontend Development: HTML5,CSS,JavaScript,React
+ Backend Development: Python, Django, Flask, MERN Stack
+ Cybersecurity: Bash Scripting, Cryptography, Pen-testing, Application testing,
+network assessment.
+ Programming Languages: Python, C,Java,C++
+ Frameworks: Django,Flask,Servlet
+ Tools & Technologies: VSCode, Git, GitHub, MySQL, MongoDB,
+Linux(Kali),Windows,Networking, Cybersecurity
+ Languages: English (Professional),Hindi(Native),Marathi(Fluent),Urdu(fluent),
+Telugu(Fluent), Gujarati(Fluent), Kannada(Fluent)
+ Projects
+ Women Safety App — Java/android
+For Safety and concern for women an alert based app
+ Chatbot— Python
+ SNS (Sending commands over the network to another PC)
+Certifications
+
+ Certificate of being in top 1% on TryHackMe.com
+ Certificate of participation in Redteam security summit-23 (Kochi)
+ Certificate of appreciation in FOSS VJCET CTF in (4th Rank)
+ NPTEL Certification in Computer Networking
+ NPTEL Certification in Theory of Computation
+ Certificate of Coordinator in Projection
+ Certificate of Infosys in Sql
+ Certificate of Infosys in Java Programming Fundamentals(online)
+ Certificate of Infosys in Basics of Python(online)
